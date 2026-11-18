@@ -7,7 +7,7 @@ package com.itvedant.firstProject;
 public class Practice {
 
 	public static void main(String[] args) {
-		
+		System.out.println("Hello Developer");
 //		int num1 = 2365;
 //		int num2 = 1235;
 //		int sum = num1 + num2;
